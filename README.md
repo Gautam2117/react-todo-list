@@ -24,7 +24,7 @@ This project is a complete To-Do List application developed for the **Week 2 Ass
 
   <br/>
 
-  ![To-Do List Screenshot](path/to/your/screenshot.png)
+  ![To-Do List Screenshot](https://github.com/Gautam2117/react-todo-list/blob/master/TODOLIST.png)
 
   <br/>
   *(Replace the above with your actual screenshot path or image link)*
@@ -51,22 +51,22 @@ This project is a complete To-Do List application developed for the **Week 2 Ass
 
 ---
 
-## Testing Instructions
+## 🧪 Testing Instructions
 
-🔹 Open http://localhost:3000
-🔹 Add tasks and check validation (empty tasks are not allowed)
-🔹 Mark tasks as done/undo
-🔹 Edit tasks and confirm correct update
-🔹 Delete tasks using 🗑️ icon
-🔹 Use Filter buttons: All, Completed, Pending
-🔹 Use Sort dropdown: Newest, Oldest
-🔹 Refresh page to check data persistence via localStorage
+- Open `http://localhost:3000`  
+- Add tasks and check validation (empty tasks are not allowed)  
+- Mark tasks as done/undo  
+- Edit tasks and confirm correct update  
+- Delete tasks using 🗑️ icon  
+- Use Filter buttons: All, Completed, Pending  
+- Use Sort dropdown: Newest, Oldest  
+- Refresh page to check data persistence via localStorage  
 
 ---
 
 ## 📬 Contact
 
-Gautam Govind
-B.Tech – Information Technology
-Manipal University Jaipur
+**Gautam Govind**  
+B.Tech – Information Technology  
+Manipal University Jaipur  
 📧 govindgautam933@gmail.com
