@@ -27,7 +27,6 @@ This project is a complete To-Do List application developed for the **Week 2 Ass
   ![To-Do List Screenshot](https://github.com/Gautam2117/react-todo-list/blob/master/TODOLIST.png)
 
   <br/>
-  *(Replace the above with your actual screenshot path or image link)*
 
 </details>
 
